@@ -1,5 +1,5 @@
 # Codewars
-I am a Code Warrior and this is my badge: 
+I am a Codewars Warrior and this is my badge: 
 
 <img src="https://www.codewars.com/users/musicmama8/badges/large">
 
