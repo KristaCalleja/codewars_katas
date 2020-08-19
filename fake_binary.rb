@@ -15,3 +15,4 @@ def fake_bin(s)
     end.join
      
   end
+  
